@@ -63,7 +63,7 @@
                             </p>
                         </div>
 
-                        <!-- {{-- RECEIPT UPLOAD --}}
+                        {{-- RECEIPT UPLOAD (Uncomment once payment.upload route is implemented)
                         <div class="border rounded-4 p-4 bg-white shadow-sm">
                             <h6 class="fw-bold text-success mb-3">📤 Upload Payment Receipt</h6>
 
@@ -82,7 +82,8 @@
                                     ✅ Submit Payment Proof
                                 </button>
                             </form>
-                        </div> -->
+                        </div>
+                        --}}
 
                         {{-- NOTE --}}
                         <div class="alert alert-warning mt-4">
