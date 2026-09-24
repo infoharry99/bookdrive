@@ -359,11 +359,11 @@
     </div>
 
    -->
-    <!-- <a href="https://wa.me/+447960 520269" class="whatsapp-float" target="_blank" title="Chat on WhatsApp">
+    <!-- <a href="https://wa.me/+447944661937" class="whatsapp-float" target="_blank" title="Chat on WhatsApp">
         <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp">
     </a>
 
-    <a href="tel:+44 7960 520269" class="call-float" title="Call Now">
+    <a href="tel:+44 7944661937" class="call-float" title="Call Now">
         <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Call">
     </a> -->
 
@@ -374,7 +374,7 @@
             </a>
         </div>
         <div class="whatsapp">
-            <a href="https://wa.me/447944661936" target="blank">
+            <a href="https://wa.me/447944661937" target="blank">
                  <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp">
             </a>
         </div>

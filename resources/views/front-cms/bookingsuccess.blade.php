@@ -104,11 +104,11 @@
                         <p class="mb-3">Contact us after payment to activate your booking:</p>
 
                         <div class="d-grid gap-2">
-                            <a href="tel:+447944661936" class="btn btn-success btn-lg rounded-pill">
-                                📞 Call: +44 7960 520269
+                            <a href="tel:+447944661937" class="btn btn-success btn-lg rounded-pill">
+                                📞 Call: +44 79446 61937
                             </a>
 
-                            <a href="https://wa.me/447944661936" target="_blank" class="btn btn-outline-success btn-lg rounded-pill">
+                            <a href="https://wa.me/447944661937" target="_blank" class="btn btn-outline-success btn-lg rounded-pill">
                                  WhatsApp
                             </a>
                         </div>
